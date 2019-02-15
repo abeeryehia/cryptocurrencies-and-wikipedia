@@ -1,7 +1,7 @@
 # cryptocurrencies-and-wikipedia
 
-This repository provide the data and relevant code for the paper "Wikipedia and Digital Currencies:
-Interplay Between Collective Attention and Market Performance" 
+This repository provide the data and relevant code for the paper ["Wikipedia and Digital Currencies:
+Interplay Between Collective Attention and Market Performance"]( https://arxiv.org/abs/1902.04517)
 
 ## Data provided
 	- wiki_market.csv: Market data and Wikipedia data (total daily views and edits) for 38 cryptocurrencies.
