@@ -16,7 +16,6 @@ Interplay Between Collective Attention and Market Performance"]( https://arxiv.o
 	- net_res.csv: all results from the network analysis.
 	- centrality.csv: centrality measure for the network.
 	
-## Scripts (coming soon)
-	- Strategy implementation. 
-	- Finding reverts and vandalism through comments. 
-	- Collecting the raw data.
+## Notebooks 
+	- Paper: replication code for the figures and values in text.
+	- Strategy implementation: price, wikipedia views and random strategy implementation.  
